@@ -1,5 +1,5 @@
 {
-  "name": "image-ninja",
+  "name": "@atelierfabien/image-ninja",
   "version": "0.1.1",
   "author": "StreetHub <hello@streethub.com>",
   "description": "Simple & extendable image processing library",
